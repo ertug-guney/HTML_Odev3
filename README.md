@@ -1,1 +1,1 @@
-Bu ödevde Fırın Sütlaç web sayfası HTML ve CSS elementleri ile hazırlandı
+Bu ödevde Fırın Sütlaç tarifi web sayfası HTML ve CSS elementleri ile hazırlandı
